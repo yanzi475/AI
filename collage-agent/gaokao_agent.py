@@ -8,7 +8,7 @@
     python gaokao_agent.py
 
     # 直接带一句话开场
-    python gaokao_agent.py --text "我是江苏考生，2024年，物化生，620分，位次1.2万"
+    python gaokao_agent.py --text "我是湖北考生，2024年，物化生，620分，位次1.2万"
 
 环境准备:
     pip install openai

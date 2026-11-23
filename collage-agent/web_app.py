@@ -134,7 +134,7 @@ PAGE = """<!DOCTYPE html>
   <aside class="side">
     <h2>考生信息</h2>
     <p class="tip">填好后点「整理并发送」，会自动拼成规范输入。也可直接在右侧聊天。</p>
-    <div class="field"><label>省份</label><input id="f_prov" placeholder="如 江苏"></div>
+    <div class="field"><label>省份</label><input id="f_prov" placeholder="如 湖北"></div>
     <div class="grid2">
       <div class="field"><label>高考年份</label><input id="f_year" placeholder="2025"></div>
       <div class="field"><label>批次</label><input id="f_batch" placeholder="本科批"></div>
