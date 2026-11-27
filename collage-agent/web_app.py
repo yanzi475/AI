@@ -131,6 +131,7 @@ PAGE = """<!DOCTYPE html>
 </header>
 <div class="layout">
   <!-- 左侧考生信息表单 -->
+  
   <aside class="side">
     <h2>考生信息</h2>
     <p class="tip">填好后点「整理并发送」，会自动拼成规范输入。也可直接在右侧聊天。</p>
